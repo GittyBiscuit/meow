@@ -1,0 +1,9 @@
+int main() {
+// this is a single line comment
+/* this is multi line comm
+
+e 
+n t */
+int a = 10;
+// int a = 10;
+}
